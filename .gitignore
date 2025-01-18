@@ -18,5 +18,3 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
-
-settings.py
